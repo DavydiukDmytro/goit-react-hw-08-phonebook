@@ -10,7 +10,6 @@ import {
   ErrorTitle,
   ErrorType,
   SubContainer,
-  TitleH1,
   TitleH2,
 } from './PhoneBook.styled';
 import {
